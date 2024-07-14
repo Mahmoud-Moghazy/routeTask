@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/routeTask/static/css/main.7f126428.css",
-    "main.js": "/routeTask/static/js/main.36be41db.js",
+    "main.css": "/routeTask/static/css/main.d8ecb7f5.css",
+    "main.js": "/routeTask/static/js/main.7feabfc2.js",
     "static/media/profile.jpg": "/routeTask/static/media/profile.67d24af5eae109e5b5d2.jpg",
     "index.html": "/routeTask/index.html",
-    "main.7f126428.css.map": "/routeTask/static/css/main.7f126428.css.map",
-    "main.36be41db.js.map": "/routeTask/static/js/main.36be41db.js.map"
+    "main.d8ecb7f5.css.map": "/routeTask/static/css/main.d8ecb7f5.css.map",
+    "main.7feabfc2.js.map": "/routeTask/static/js/main.7feabfc2.js.map"
   },
   "entrypoints": [
-    "static/css/main.7f126428.css",
-    "static/js/main.36be41db.js"
+    "static/css/main.d8ecb7f5.css",
+    "static/js/main.7feabfc2.js"
   ]
 }
